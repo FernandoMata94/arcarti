@@ -1,0 +1,6 @@
+actualizar
+logo 
+SECCION 3: quitar el default del depa A y que solo salgan 2 
+abrir maximo dos 
+invertir los colores en comtacto 
+cambiar imagenes

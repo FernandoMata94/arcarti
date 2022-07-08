@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0774371-3f36-47aa-993d-8a4bf075a083" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact-form-handler.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pro</find>
+      <find>hover</find>
+      <find>proyectos</find>
+      <find>.us</find>
+      <find>burgu</find>
+      <find>logo pa</find>
+      <find>right</find>
+      <find>burguer</find>
+      <find>.home .m</find>
+      <find>nav</find>
+      <find>sli</find>
+      <find>img-gr</find>
+      <find>img-g</find>
+      <find>proyectos_</find>
+      <find>img-grupo</find>
+      <find>proye</find>
+      <find>HOME</find>
+      <find>home</find>
+      <find>logo</find>
+      <find>scrolld</find>
+      <find>icon</find>
+      <find>button</find>
+      <find>enviar</find>
+      <find>cuadro</find>
+      <find>contact</find>
+      <find>red</find>
+      <find>info-cont</find>
+      <find>$reci</find>
+      <find>steelco</find>
+      <find>swipe</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/js/scripts.js" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/estudio.html" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/nosotros.html" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/index.html" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/proyectos.html" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/haagen.html" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/casasantiago.html" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/diegorivera.html" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/sanrafael.html" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/seco.html" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/css/styles.css" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/estudiospl.html" />
+        <option value="$PROJECT_DIR$/scss/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$USER_HOME$/Desktop/puntoylinea/contacto.html" />
+        <option value="$USER_HOME$/my-app/src/index.html" />
+        <option value="$USER_HOME$/my-app/src/app/app.component.html" />
+        <option value="$USER_HOME$/angular-tour-of-heroes/src/styles.css" />
+        <option value="$USER_HOME$/angular-tour-of-heroes/src/app/app.component.html" />
+        <option value="$USER_HOME$/angular-tour-of-heroes/src/app/hero.ts" />
+        <option value="$USER_HOME$/angular-tour-of-heroes/src/app/heroes/heroes.component.ts" />
+        <option value="$USER_HOME$/angular-tour-of-heroes/src/app/heroes/heroes.component.html" />
+        <option value="$USER_HOME$/angular-tour-of-heroes/src/app/app.module.ts" />
+        <option value="$USER_HOME$/angular-tour-of-heroes/src/app/mock-heroes.ts" />
+        <option value="$PROJECT_DIR$/css/app.css" />
+        <option value="$PROJECT_DIR$/contact-form-handler.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scss/app.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="705" />
+    <option name="y" value="22" />
+    <option name="width" value="1179" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="phpstormprojects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpstormprojects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phpstormprojects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpstormprojects" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="W:\programas\PhpStorm 2019.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\phpstormprojects" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0774371-3f36-47aa-993d-8a4bf075a083" name="Default Changelist" comment="" />
+      <created>1563851765757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563851765757</updated>
+      <workItem from="1563851767702" duration="2421000" />
+      <workItem from="1566357982956" duration="3982000" />
+      <workItem from="1567566200382" duration="7630000" />
+      <workItem from="1567660499991" duration="972000" />
+      <workItem from="1567744370112" duration="3303000" />
+      <workItem from="1570380022460" duration="3802000" />
+      <workItem from="1570681149709" duration="10224000" />
+      <workItem from="1570996771687" duration="20851000" />
+      <workItem from="1571890539999" duration="7483000" />
+      <workItem from="1572713053990" duration="9178000" />
+      <workItem from="1579244551509" duration="385000" />
+      <workItem from="1584735017197" duration="614000" />
+      <workItem from="1585762811318" duration="599000" />
+      <workItem from="1585851470157" duration="494000" />
+      <workItem from="1585854171928" duration="142000" />
+      <workItem from="1585854315069" duration="33018000" />
+      <workItem from="1586296669255" duration="5875000" />
+      <workItem from="1586909168856" duration="4120000" />
+      <workItem from="1586969293727" duration="1718000" />
+      <workItem from="1586971177687" duration="14313000" />
+      <workItem from="1587658541320" duration="2569000" />
+      <workItem from="1587766845514" duration="732000" />
+      <workItem from="1587833797777" duration="1243000" />
+      <workItem from="1588187296878" duration="8265000" />
+      <workItem from="1588281340805" duration="8031000" />
+      <workItem from="1588614310864" duration="2089000" />
+      <workItem from="1588704811498" duration="5697000" />
+      <workItem from="1588800687337" duration="5565000" />
+      <workItem from="1588959424818" duration="640000" />
+      <workItem from="1588994250245" duration="9326000" />
+      <workItem from="1589038827082" duration="700000" />
+      <workItem from="1589471614926" duration="15783000" />
+      <workItem from="1589819020404" duration="3550000" />
+      <workItem from="1589992055829" duration="595000" />
+      <workItem from="1590186529201" duration="1512000" />
+      <workItem from="1590513591188" duration="591000" />
+      <workItem from="1590692300849" duration="3372000" />
+      <workItem from="1590859002983" duration="1894000" />
+      <workItem from="1591030520959" duration="5365000" />
+      <workItem from="1591077446542" duration="4004000" />
+      <workItem from="1591109463610" duration="1361000" />
+      <workItem from="1591287604621" duration="1185000" />
+      <workItem from="1591598229464" duration="1675000" />
+      <workItem from="1591633686371" duration="5052000" />
+      <workItem from="1591979730271" duration="6206000" />
+      <workItem from="1592325243582" duration="6960000" />
+      <workItem from="1592453031591" duration="8296000" />
+      <workItem from="1592496381678" duration="5622000" />
+      <workItem from="1592589671969" duration="1666000" />
+      <workItem from="1604772109794" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="250676000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="705" y="22" width="1179" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.118856125" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.30444205" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$USER_HOME$/Desktop/puntoylinea/contacto.html</url>
+          <line>274</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/404.html" />
+    <entry file="file://Z:/Descargas/fel/instafeed.js-master/instafeed.js-master/instafeed.min.js" />
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/js/scripts.js" />
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/nosotros.html" />
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/haagen.html" />
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/casasantiago.html" />
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/diegorivera.html" />
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/sanrafael.html" />
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/seco.html" />
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/proyectos.html" />
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/estudiospl.html" />
+    <entry file="file://$PROJECT_DIR$/scss/index.html" />
+    <entry file="file://Z:/Descargas/fel/slick-1.8.1/slick-1.8.1/slick/slick.js" />
+    <entry file="file://Z:/Descargas/fel/slick-1.8.1/slick-1.8.1/slick/slick.css" />
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/estudio.html" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/feedback_form.php" />
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/contacto.html" />
+    <entry file="file://$USER_HOME$/my-app/src/index.html" />
+    <entry file="file://$USER_HOME$/my-app/src/app/app.component.html" />
+    <entry file="file://$USER_HOME$/angular-tour-of-heroes/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/angular-tour-of-heroes/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/angular-tour-of-heroes/src/app/heroes/heroes.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/angular-tour-of-heroes/src/app/hero.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/angular-tour-of-heroes/src/app/heroes/heroes.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/angular-tour-of-heroes/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/angular-tour-of-heroes/src/app/mock-heroes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/angular-tour-of-heroes/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/contact-form-handler.php" />
+    <entry file="file://Z:/Descargas/contacto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="287" column="80" lean-forward="true" selection-start-line="287" selection-start-column="46" selection-end-line="287" selection-end-column="80" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Z:/Descargas/contact-form-handler.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/contact-form-handler.php" />
+    <entry file="file://$PROJECT_DIR$/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2950">
+          <caret line="618" column="22" lean-forward="true" selection-start-line="618" selection-start-column="22" selection-end-line="618" selection-end-column="22" />
+          <folding>
+            <element signature="e#2144#4717#0" />
+            <element signature="e#4735#5181#0" />
+            <element signature="e#5190#6158#0" />
+            <element signature="e#6167#8183#0" />
+            <element signature="e#8273#8457#0" />
+            <element signature="e#9211#9872#0" />
+            <element signature="e#9885#10645#0" />
+            <element signature="e#14290#15629#0" />
+            <element signature="e#14722#14771#0" />
+            <element signature="e#14779#15439#0" />
+            <element signature="e#15448#15542#0" />
+            <element signature="e#15638#19497#0" />
+            <element signature="e#19504#19744#0" />
+            <element signature="e#19755#20917#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="183" column="9" selection-start-line="183" selection-start-column="9" selection-end-line="183" selection-end-column="9" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#5;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#0;n#div#0;n#a#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#a#2;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#g#0;n#svg#0;n#div#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#g#0;n#svg#0;n#div#0;n#div#0;n#a#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#svg#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#svg#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#svg#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#3;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/puntoylinea/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/contact-form-handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
